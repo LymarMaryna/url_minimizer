@@ -14,7 +14,6 @@
 git clone https://github.com/LymarMaryna/url_minimizer.git
 cd url_minimizer
 composer install
-php migrate.php run
 ```
 
 Создайте файл .env  с настойками конфигурации базы данных и выполните:
