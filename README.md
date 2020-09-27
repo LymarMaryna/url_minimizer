@@ -11,8 +11,8 @@
 ### Установка
 
 ```bash
-git clone https://github.com/BinaryStudioAcademy/bsa-2019-php-5.git
-cd url_minify
+git clone https://github.com/LymarMaryna/url_minimizer.git
+cd url_minimizer
 composer install
 php migrate.php run
 ```
