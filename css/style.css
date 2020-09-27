@@ -1,0 +1,36 @@
+body {
+    background: url("../images/back.png") no-repeat;
+    background-size: 100%;
+}
+
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.form-signin {
+    max-width: 450px;
+    padding: 30px;
+    margin: 0 auto;
+}
+
+#div-signin {
+    background-color:rgba(255, 255, 255, 0.5);
+    border-radius: 18px;
+}
+.button_block {
+    margin-top: 15px;
+}
+
+.lifetime_select {
+    margin: 0 auto;
+    max-width: 250px;
+}
+.error {
+    margin-top: 15px;
+    color: red;
+}
+.green {
+    border-color: green;
+}
+
